@@ -14,15 +14,7 @@
       "title": "My Site",
       "logo": "image/logo.png",
       "iconRedirectUrl": "https://www.spreading.ai",
-      "items": [
-        {
-          "type": "docSidebar",
-          "sidebarIds": ["mySidebar"],
-          "label": "NavItem",
-          "position": "left",
-          "docsInstanceId": "default"
-        }
-      ]
+      "items": []
     },
     "footer": {
       "logo": "image/logo.png",
