@@ -13,8 +13,7 @@
     "navbar": {
       "title": "My Site",
       "logo": "image/logo.png",
-      "iconRedirectUrl": "https://www.spreading.ai",
-      "items": []
+      "iconRedirectUrl": "https://www.spreading.ai"
     },
     "footer": {
       "logo": "image/logo.png",
