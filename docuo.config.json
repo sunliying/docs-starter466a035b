@@ -85,9 +85,8 @@
       ]
     },
     "footer": {
-      "logo": "image/logo.png",
       "copyright": "Copyright @2024 SPREADING. All Rights Reserved",
-      "caption": "mbed high-quality real-time video into your applications with ZEGOCLOUD's live video call API."     
+      "caption": "mbed high-quality real-time video into your applications with ZEGOCLOUD's live video call API."
     }
   }
 }
