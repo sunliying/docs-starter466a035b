@@ -11,14 +11,14 @@
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "%E6%88%91%E8%AF%B4%E6%88%91%E6%98%AF%E4%B8%AD%E6%96%87%E5%93%88%E5%93%88%E5%93%88%E7%9A%84",
       "logo": "image/logo.png",
-      "iconRedirectUrl": "https://www.spreading.ai"
+      "iconRedirectUrl": "https://www.zegocloud.com"
     },
     "footer": {
       "logo": "image/logo.png",
       "copyright": "Copyright @2024 SPREADING. All Rights Reserved",
-            "caption": "mbed high-quality real-time video into your applications with ZEGOCLOUD's live video call API.",
+      "caption": "mbed high-quality real-time video into your applications with ZEGOCLOUD's live video call API.",
       "links": [
         {
           "title": "pneumonoultra",
