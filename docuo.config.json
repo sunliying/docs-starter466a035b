@@ -13,7 +13,76 @@
     "navbar": {
       "title": "%E6%88%91%E8%AF%B4%E6%88%91%E6%98%AF%E4%B8%AD%E6%96%87%E5%93%88%E5%93%88%E5%93%88%E7%9A%84",
       "logo": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace71/cab41d079cf776b639456b03afce2658/logo.png",
-      "iconRedirectUrl": "https://www.zegocloud.com"
+      "iconRedirectUrl": "https://www.zegocloud.com",
+      "items": [
+        {
+          "type": "default",
+          "href": "https://app.spreading.ai",
+          "label": "Blog1"
+        },
+        {
+          "type": "default",
+          "href": "https://app.spreading.ai",
+          "label": "Blog2"
+        },
+        {
+          "type": "default",
+          "href": "https://app.spreading.ai",
+          "label": "Blog3"
+        },
+        {
+          "type": "docSidebar",
+          "sidebarIds": [
+            "mySidebar"
+          ],
+          "label": "11"
+        },
+        {
+          "type": "docSidebar",
+          "sidebarIds": [
+            "mySidebar"
+          ],
+          "label": "pneumonoultramicroscopicsilicovolcanoconiosis"
+        },
+        {
+          "label": "Dropdown1",
+          "items": [
+            {
+              "type": "default",
+              "href": "https://feedeo.spreading.ai",
+              "label": "feedeo Blog"
+            },
+            {
+              "type": "docSidebar",
+              "sidebarIds": [
+                "mySidebar"
+              ],
+              "label": "pneumonoultramicroscopicsilicovolcanoconiosis"
+            }
+          ]
+        },
+        {
+          "type": "dropdown",
+          "label": "zhegde",
+          "items": [
+            {
+              "type": "default",
+              "href": "https://feedeo.spreading.ai",
+              "label": "feedeo Blog"
+            },
+            {
+              "type": "default",
+              "href": "https://app.spreading.ai",
+              "label": "youdehdeb app"
+            },
+            {
+              "type": "default",
+              "href": "https://www.baidu.com",
+              "label": "baidu hdehde  dhdhe"
+            }
+          ]
+        }
+      ]
     },
     "footer": {
       "logo": "image/logo.png",
